@@ -1,5 +1,5 @@
 # JS-Project
-Apocalpse's JS Projects are ;osted here.
+Apocalpse's JS Projects are listed here.
 
 ## Basic Project
 ### **TOPICS**
